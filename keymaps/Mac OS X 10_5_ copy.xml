@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="OpenGruntConsole">
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
