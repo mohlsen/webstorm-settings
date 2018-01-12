@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'persona'" />
-    <option name="defaultScopeName" value="Project 'persona'" />
-    <option name="SEARCH_SCOPE" value="Project 'persona'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,8 +15,10 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>!(*.spec.js)</mask>
-      <mask>*.spec.js</mask>
       <mask>!*.spec.js</mask>
+      <mask>!.spec.js</mask>
+      <mask>.spec.js</mask>
+      <mask>*.spec.js</mask>
     </recentFileMasks>
   </component>
 </application>
