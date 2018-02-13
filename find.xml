@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!(*.spec.js)" />
+    <option name="FILE_MASK" value="eula.md" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -35,6 +34,7 @@
       <mask>!*.spec.?s</mask>
       <mask>*.spec.?s</mask>
       <mask>!(*.spec.js)</mask>
+      <mask>eula.md</mask>
     </recentFileMasks>
   </component>
 </application>
