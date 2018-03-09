@@ -1,15 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping ext="ngdoc" type="Markdown" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="dfgdf" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="sdfgds" type="PLAIN_TEXT" />
-      <mapping ext="jx" type="PLAIN_TEXT" />
       <mapping ext="sty" type="PLAIN_TEXT" />
       <mapping ext="gzip" type="PLAIN_TEXT" />
+      <mapping ext="gradle" type="PLAIN_TEXT" />
+      <mapping ext="jx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
