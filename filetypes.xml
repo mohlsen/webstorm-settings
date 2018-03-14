@@ -6,6 +6,8 @@
       <mapping ext="ngdoc" type="Markdown" />
       <mapping pattern="dfgdf" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="fghfgh" type="PLAIN_TEXT" />
+      <mapping pattern="fghfghfghfgh" type="PLAIN_TEXT" />
       <mapping pattern="sdfgds" type="PLAIN_TEXT" />
       <mapping ext="sty" type="PLAIN_TEXT" />
       <mapping ext="gzip" type="PLAIN_TEXT" />
