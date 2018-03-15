@@ -1,0 +1,20 @@
+<templateSet group="TypeScript">
+  <template name="it" value="it(&quot;should $NAME$&quot;, () =&gt; {&#10;      $END$&#10;});" description="insert TypeScript it() function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="desc" value="describe(&quot;$NAME$&quot;, () =&gt; {&#10;      $END$&#10;});" description="insert TypeScript desccribe() function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="f" value="($params$) =&gt; {&#10;    $END$&#10;}" description="insert TypeSript anonymous function" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
