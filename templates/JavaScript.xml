@@ -6,6 +6,5 @@
   </template>
   <template name="f" value="function($params$){&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
