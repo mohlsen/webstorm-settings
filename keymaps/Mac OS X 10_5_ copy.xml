@@ -2,6 +2,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
+  <action id="FileChooser.ShowHiddens">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="OpenGruntConsole">
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
