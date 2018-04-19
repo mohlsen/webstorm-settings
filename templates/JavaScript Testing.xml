@@ -9,7 +9,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="xit" value="xit('should $NAME$', function() {&#10;    $END$&#10;}); " toReformat="true" toShortenFQNames="true">
+  <template name="xit" value="xit('should $NAME$', function() {&#10;    $END$&#10;}); " description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
