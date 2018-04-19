@@ -3,4 +3,13 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" pattern="\bMUST\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="BACKGROUND" value="8d0008" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+  </component>
 </application>
