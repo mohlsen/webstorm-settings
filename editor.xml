@@ -7,7 +7,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern useCustomColors="true" pattern="\bMUST:\b.*">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bMUST\b.*">
       <option name="FOREGROUND" value="a8c023" />
       <option name="BACKGROUND" value="8d0008" />
       <option name="FONT_TYPE" value="2" />
