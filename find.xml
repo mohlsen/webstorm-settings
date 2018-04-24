@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.spec.?s" />
+    <option name="FILE_MASK" value="*svc*.ts" />
     <recentFileMasks>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>!.spec.js</mask>
@@ -35,6 +34,7 @@
       <mask>*.ts</mask>
       <mask>*.spec.?s</mask>
       <mask>!*.spec.?s</mask>
+      <mask>*svc*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
