@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*svc*.ts" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -31,10 +31,10 @@
       <mask>eula.md</mask>
       <mask>spec.?s</mask>
       <mask>spec.?</mask>
-      <mask>*.ts</mask>
       <mask>!*.spec.?s</mask>
       <mask>*.spec.?s</mask>
       <mask>*svc*.ts</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
