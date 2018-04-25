@@ -32,8 +32,8 @@
       <mask>spec.?s</mask>
       <mask>spec.?</mask>
       <mask>*.ts</mask>
-      <mask>*.spec.?s</mask>
       <mask>!*.spec.?s</mask>
+      <mask>*.spec.?s</mask>
       <mask>*svc*.ts</mask>
     </recentFileMasks>
   </component>
