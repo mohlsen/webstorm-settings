@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="!*.spec.?s" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>!.spec.js</mask>
@@ -37,8 +37,8 @@
       <mask>*svc*.ts</mask>
       <mask>*.mock.*</mask>
       <mask>*.spec.?s</mask>
-      <mask>!*.spec.?s</mask>
       <mask>*.ts</mask>
+      <mask>!*.spec.?s</mask>
     </recentFileMasks>
   </component>
 </application>
