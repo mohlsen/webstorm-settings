@@ -32,8 +32,8 @@
       <mask>*.mock.*</mask>
       <mask>*.ts</mask>
       <mask>*.less</mask>
-      <mask>!*.spec.?s</mask>
       <mask>*.spec.?s</mask>
+      <mask>!*.spec.?s</mask>
     </recentFileMasks>
   </component>
 </application>

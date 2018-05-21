@@ -12,5 +12,10 @@
       <option name="BACKGROUND" value="8d0008" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bQUESTION\b.*">
+      <option name="FOREGROUND" value="142cc0" />
+      <option name="BACKGROUND" value="d4d20a" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>
