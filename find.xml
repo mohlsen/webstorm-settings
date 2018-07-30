@@ -1,41 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>.spec.js</mask>
-      <mask>*.f</mask>
-      <mask>*.fe</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
-      <mask>*.featu</mask>
-      <mask>*.featur</mask>
-      <mask>!*.feature</mask>
-      <mask>!*.eature</mask>
-      <mask>!*.</mask>
-      <mask>!*.s</mask>
-      <mask>!*.sp</mask>
-      <mask>!*.spe</mask>
-      <mask>!*.spec</mask>
-      <mask>!*.spec.</mask>
-      <mask>!*.spec.j</mask>
-      <mask>!*.spec.js</mask>
-      <mask>!(*.spec.js)</mask>
-      <mask>eula.md</mask>
-      <mask>spec.?s</mask>
-      <mask>spec.?</mask>
-      <mask>*svc*.ts</mask>
-      <mask>*.mock.*</mask>
-      <mask>*.less</mask>
-      <mask>!*.spec.?s</mask>
-      <mask>*.spec.?s</mask>
-      <mask>*.feature</mask>
-      <mask>*.mock.js</mask>
-      <mask>*.ts</mask>
-      <mask>*.spec.js</mask>
-    </recentFileMasks>
   </component>
 </application>
