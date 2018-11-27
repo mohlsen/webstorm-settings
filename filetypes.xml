@@ -4,8 +4,9 @@
     <extensionMap>
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping ext="ngdoc" type="Markdown" />
-      <mapping pattern="dfgdf" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="dfgdf" type="PLAIN_TEXT" />
       <mapping pattern="fghfgh" type="PLAIN_TEXT" />
       <mapping pattern="fghfghfghfgh" type="PLAIN_TEXT" />
       <mapping pattern="sdfgds" type="PLAIN_TEXT" />
