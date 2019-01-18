@@ -17,7 +17,7 @@
     <mask>*.feature</mask>
     <mask>*.html</mask>
     <mask>*.spec.?s</mask>
-    <mask>!*.spec.?s</mask>
     <mask>*.ts</mask>
+    <mask>!*.spec.?s</mask>
   </component>
 </application>
