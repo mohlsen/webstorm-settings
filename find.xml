@@ -21,5 +21,6 @@
     <mask>*Page.js</mask>
     <mask>*.js</mask>
     <mask>*step.js</mask>
+    <mask>page.js</mask>
   </component>
 </application>
