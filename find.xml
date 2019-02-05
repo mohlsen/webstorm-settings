@@ -15,14 +15,14 @@
     <mask>!*.log</mask>
     <mask>*.html</mask>
     <mask>*.spec.?s</mask>
-    <mask>*.ts</mask>
     <mask>!*.spec.?s</mask>
     <mask>*Page.js</mask>
-    <mask>*.js</mask>
     <mask>*step.js</mask>
     <mask>page.js</mask>
     <mask>*page.js</mask>
     <mask>*.step.js</mask>
     <mask>*.feature</mask>
+    <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
