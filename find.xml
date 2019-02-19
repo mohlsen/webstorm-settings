@@ -3,10 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
-    <option name="regularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.?s" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,9 +26,9 @@
     <mask>*.feature</mask>
     <mask>!*.html</mask>
     <mask>*.ts</mask>
-    <mask>*.spec.?s</mask>
     <mask>*.js</mask>
     <mask>!*.spec.?s</mask>
     <mask>*page.js</mask>
+    <mask>*.spec.?s</mask>
   </component>
 </application>
