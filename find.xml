@@ -26,7 +26,7 @@
     <mask>*page.js</mask>
     <mask>!*.spec.?s</mask>
     <mask>*.md</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
