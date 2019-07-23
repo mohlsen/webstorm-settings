@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.?s" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,12 +22,12 @@
     <mask>page.js</mask>
     <mask>*.step.js</mask>
     <mask>!*.html</mask>
-    <mask>*.spec.?s</mask>
     <mask>*page.js</mask>
     <mask>!*.spec.?s</mask>
     <mask>*.md</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.feature</mask>
+    <mask>*.spec.?s</mask>
   </component>
 </application>
