@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec.?s" />
+    <option name="FILE_MASK" value="!*.spec.?s" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,7 +25,7 @@
     <mask>*.js</mask>
     <mask>*.feature</mask>
     <mask>*step.js</mask>
-    <mask>!*.spec.?s</mask>
     <mask>*.spec.?s</mask>
+    <mask>!*.spec.?s</mask>
   </component>
 </application>
