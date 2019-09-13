@@ -1,9 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.spec.?s" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,12 +24,12 @@
     <mask>!*.html</mask>
     <mask>*page.js</mask>
     <mask>*.md</mask>
-    <mask>*.ts</mask>
     <mask>*.step.js</mask>
     <mask>*.js</mask>
     <mask>*.feature</mask>
     <mask>*step.js</mask>
     <mask>*.spec.?s</mask>
     <mask>!*.spec.?s</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
