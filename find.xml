@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.?s" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,8 +26,8 @@
     <mask>*.js</mask>
     <mask>*.feature</mask>
     <mask>*step.js</mask>
-    <mask>*.spec.?s</mask>
     <mask>!*.spec.?s</mask>
     <mask>*.ts</mask>
+    <mask>*.spec.?s</mask>
   </component>
 </application>
