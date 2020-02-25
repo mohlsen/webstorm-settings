@@ -23,6 +23,5 @@
   <template name="iter" value="for ($VAR$ in $ITERABLE$) {&#10;  $END$&#10;}" description="Iterate (for..in)" toReformat="true" toShortenFQNames="true">
     <variable name="ITERABLE" expression="dartIterableVariable()" defaultValue="&quot;array &quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="dartSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
