@@ -1,0 +1,8 @@
+<templateSet group="TestCafe">
+  <template name="test" value="test('$NAME$', async () =&gt; {&#10;      $END$&#10;});" description="TestCafe test" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
