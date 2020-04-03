@@ -6,6 +6,7 @@
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping ext="ngdoc" type="Markdown" />
       <mapping pattern="sdfgds" type="PLAIN_TEXT" />
+      <mapping pattern="backend" type="PLAIN_TEXT" />
       <mapping pattern="fghfgh" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="dfgdf" type="PLAIN_TEXT" />
