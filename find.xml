@@ -24,7 +24,7 @@
     <mask>*.js</mask>
     <mask>*step.js</mask>
     <mask>*.feature</mask>
-    <mask>*.md</mask>
     <mask>*.ts</mask>
+    <mask>*.md</mask>
   </component>
 </application>
