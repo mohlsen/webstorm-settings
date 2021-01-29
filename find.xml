@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.json" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -28,11 +28,11 @@
     <mask>*.spec.?s</mask>
     <mask>!*.spec.?s</mask>
     <mask>!*tests*</mask>
-    <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>*.spec.ts</mask>
     <mask>*.json</mask>
     <mask>package.json</mask>
     <mask>!*.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
