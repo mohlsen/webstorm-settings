@@ -30,8 +30,8 @@
     <mask>package.json</mask>
     <mask>!*.spec.?s</mask>
     <mask>en.json</mask>
-    <mask>*.md</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
+    <mask>*.md</mask>
   </component>
 </application>
