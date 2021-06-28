@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -12,7 +10,6 @@
     <mask>*.mxml</mask>
     <mask>.feature</mask>
     <mask>!*.log</mask>
-    <mask>*.html</mask>
     <mask>*Page.js</mask>
     <mask>page.js</mask>
     <mask>!*.html</mask>
@@ -25,13 +22,16 @@
     <mask>*.component.ts</mask>
     <mask>!*.orig</mask>
     <mask>*.spec.?s</mask>
-    <mask>!*.spec.?s</mask>
     <mask>!*tests*</mask>
-    <mask>*.md</mask>
     <mask>*.spec.ts</mask>
-    <mask>*.json</mask>
     <mask>!*.json</mask>
     <mask>package.json</mask>
+    <mask>!*.spec.?s</mask>
+    <mask>en.json</mask>
+    <mask>*.md</mask>
     <mask>*.ts</mask>
+    <mask>*.</mask>
+    <mask>*.html</mask>
+    <mask>*.json</mask>
   </component>
 </application>
