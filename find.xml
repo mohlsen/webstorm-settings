@@ -31,7 +31,7 @@
     <mask>*.md</mask>
     <mask>*.ts</mask>
     <mask>*.</mask>
-    <mask>*.html</mask>
     <mask>*.json</mask>
+    <mask>*.html</mask>
   </component>
 </application>
