@@ -1,20 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping pattern="browserslist" type="AUTO_DETECTED" />
       <mapping pattern="203-notification_center" type="Cucumber" />
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping ext="ngdoc" type="Markdown" />
-      <mapping pattern="dfgdf" type="PLAIN_TEXT" />
-      <mapping pattern="fghfghfghfgh" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="sdfgds" type="PLAIN_TEXT" />
-      <mapping pattern="backend" type="PLAIN_TEXT" />
-      <mapping pattern="fghfgh" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST-000002" type="PLAIN_TEXT" />
+      <mapping pattern="fghfgh" type="PLAIN_TEXT" />
+      <mapping pattern="sdfgds" type="PLAIN_TEXT" />
+      <mapping pattern="dfgdf" type="PLAIN_TEXT" />
+      <mapping pattern="backend" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="fghfghfghfgh" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="gzip" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
