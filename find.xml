@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -26,12 +27,12 @@
     <mask>!*.json</mask>
     <mask>!*.spec.?s</mask>
     <mask>en.json</mask>
-    <mask>*.md</mask>
     <mask>*.</mask>
     <mask>*.html</mask>
     <mask>!*.orig</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>package.json</mask>
+    <mask>*.md</mask>
   </component>
 </application>
